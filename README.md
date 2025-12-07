@@ -26,3 +26,4 @@ After waking up, the **New Life Rule (NLR)** applies.
 ## Install
 1. Place the resource in `resources/`
 2. Add to `server.cfg`:
+3. Add your own video.mp4
